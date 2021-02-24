@@ -1,7 +1,7 @@
 # dart
-Program to Print the equation of line in dart 
-  1.meta data
-    - dart
-    - equation of line
-    - two point given 
-    - draw equation of line in dart 
+Program to print the equation of line in dart <br>
+  &emsp;1.meta data <br>
+ &emsp;  &emsp; - dart<br>
+  &emsp; &emsp; - equation of line<br>
+ &emsp;  &emsp; - two point given <br>
+ &emsp;  &emsp; - draw equation of line in dart 
